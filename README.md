@@ -1,1 +1,1 @@
-cafe interface
+Cafe Management System
